@@ -1,0 +1,22 @@
+C:\Users\Keith\source\repos\ReliefCenterFinals\ReliefCenterFinals\bin\Debug\ReliefCenterFinals.exe.config
+C:\Users\Keith\source\repos\ReliefCenterFinals\ReliefCenterFinals\bin\Debug\ReliefCenterFinals.exe
+C:\Users\Keith\source\repos\ReliefCenterFinals\ReliefCenterFinals\bin\Debug\ReliefCenterFinals.pdb
+C:\Users\Keith\source\repos\ReliefCenterFinals\ReliefCenterFinals\obj\Debug\ReliefCenterFinals.csprojAssemblyReference.cache
+C:\Users\Keith\source\repos\ReliefCenterFinals\ReliefCenterFinals\obj\Debug\ReliefCenterFinals.Form1.resources
+C:\Users\Keith\source\repos\ReliefCenterFinals\ReliefCenterFinals\obj\Debug\ReliefCenterFinals.Form2.resources
+C:\Users\Keith\source\repos\ReliefCenterFinals\ReliefCenterFinals\obj\Debug\ReliefCenterFinals.Properties.Resources.resources
+C:\Users\Keith\source\repos\ReliefCenterFinals\ReliefCenterFinals\obj\Debug\ReliefCenterFinals.csproj.GenerateResource.cache
+C:\Users\Keith\source\repos\ReliefCenterFinals\ReliefCenterFinals\obj\Debug\ReliefCenterFinals.csproj.CoreCompileInputs.cache
+C:\Users\Keith\source\repos\ReliefCenterFinals\ReliefCenterFinals\obj\Debug\ReliefCenterFinals.exe
+C:\Users\Keith\source\repos\ReliefCenterFinals\ReliefCenterFinals\obj\Debug\ReliefCenterFinals.pdb
+C:\Users\Keith\COLLEGE NOTES\2ND YEAR\1ST SEM\CS 21A\FinalProject-Bartido-170231\ReliefCenterFinals\bin\Debug\ReliefCenterFinals.exe.config
+C:\Users\Keith\COLLEGE NOTES\2ND YEAR\1ST SEM\CS 21A\FinalProject-Bartido-170231\ReliefCenterFinals\bin\Debug\ReliefCenterFinals.exe
+C:\Users\Keith\COLLEGE NOTES\2ND YEAR\1ST SEM\CS 21A\FinalProject-Bartido-170231\ReliefCenterFinals\bin\Debug\ReliefCenterFinals.pdb
+C:\Users\Keith\COLLEGE NOTES\2ND YEAR\1ST SEM\CS 21A\FinalProject-Bartido-170231\ReliefCenterFinals\obj\Debug\ReliefCenterFinals.csprojAssemblyReference.cache
+C:\Users\Keith\COLLEGE NOTES\2ND YEAR\1ST SEM\CS 21A\FinalProject-Bartido-170231\ReliefCenterFinals\obj\Debug\ReliefCenterFinals.Form1.resources
+C:\Users\Keith\COLLEGE NOTES\2ND YEAR\1ST SEM\CS 21A\FinalProject-Bartido-170231\ReliefCenterFinals\obj\Debug\ReliefCenterFinals.Form2.resources
+C:\Users\Keith\COLLEGE NOTES\2ND YEAR\1ST SEM\CS 21A\FinalProject-Bartido-170231\ReliefCenterFinals\obj\Debug\ReliefCenterFinals.Properties.Resources.resources
+C:\Users\Keith\COLLEGE NOTES\2ND YEAR\1ST SEM\CS 21A\FinalProject-Bartido-170231\ReliefCenterFinals\obj\Debug\ReliefCenterFinals.csproj.GenerateResource.cache
+C:\Users\Keith\COLLEGE NOTES\2ND YEAR\1ST SEM\CS 21A\FinalProject-Bartido-170231\ReliefCenterFinals\obj\Debug\ReliefCenterFinals.csproj.CoreCompileInputs.cache
+C:\Users\Keith\COLLEGE NOTES\2ND YEAR\1ST SEM\CS 21A\FinalProject-Bartido-170231\ReliefCenterFinals\obj\Debug\ReliefCenterFinals.exe
+C:\Users\Keith\COLLEGE NOTES\2ND YEAR\1ST SEM\CS 21A\FinalProject-Bartido-170231\ReliefCenterFinals\obj\Debug\ReliefCenterFinals.pdb
